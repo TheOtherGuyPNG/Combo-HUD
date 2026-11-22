@@ -1,2 +1,6 @@
 # Combo-HUD
-A Minecraft mod. Fabric 26.3. It shows you your current combo status for practice or training.
+A customizable sword combo counter HUD for Minecraft 26.3 on Fabric.
+# Dependencies
+This mod has dependencies! Please install them  if you plan on using the mod:
+
+Mod menu
