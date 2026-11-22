@@ -2,6 +2,10 @@
 
 Combo HUD is a client-side Fabric mod for Minecraft 26.3 that displays a sword-hit combo counter. Customize the label and counter colors, move or resize each element, choose which targets count, and adjust the combo timeout.
 
+## Dependencies
+This mod has dependencies! Please install the following mod(s):
+- Mod menu
+
 ## Install
 
 Use Minecraft 26.3 with Fabric Loader and Fabric API for 26.3. Place the mod JAR in your instance’s mods folder. Install Mod Menu to open the Combo HUD settings from the mods screen.
