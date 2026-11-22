@@ -1,0 +1,2 @@
+{"required":true,"package":"combo.mixin","compatibilityLevel":"JAVA_25","client":["SwingMixin","DamageMixin"],"injectors":{"defaultRequire":1}}
+

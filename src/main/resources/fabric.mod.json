@@ -1,0 +1,4 @@
+{"schemaVersion":1,"id":"combo_hud","version":"1.2.0","name":"Combo HUD","description":"Sword PvP combo counter with a customizable HUD.","environment":"client","entrypoints":{"client":["combo.Combo"],"modmenu":["combo.Integration"]},"mixins":["combo.mixins.json"],"depends":{"minecraft":"26.3","java":">=25","fabricloader":">=0.19.5","fabric-rendering-v1":"*"}}
+
+
+
